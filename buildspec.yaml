@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
     
-     _PROJECT_NAME: "admin18-products"
+     _PROJECT_NAME: "admin18-delivery"
 
 phases:
   install:
